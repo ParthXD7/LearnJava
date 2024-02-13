@@ -1,4 +1,4 @@
-package College;
+package LearnCollegeCodes;
 
 public class CollegeDigit3Combination {
         public static void main(String[] args) {

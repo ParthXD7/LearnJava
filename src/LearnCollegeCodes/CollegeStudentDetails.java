@@ -1,4 +1,4 @@
-package College;
+package LearnCollegeCodes;
 
 import java.util.Scanner;
 

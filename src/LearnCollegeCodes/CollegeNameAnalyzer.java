@@ -1,4 +1,4 @@
-package College;
+package LearnCollegeCodes;
 
 public class CollegeNameAnalyzer {
     public static void main(String[] args) {
