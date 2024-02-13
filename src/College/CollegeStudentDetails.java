@@ -1,6 +1,8 @@
+package College;
+
 import java.util.Scanner;
 
-// Define a class to represent a Student
+// Define a class to represent a College.Student
 class Student {
     String name;
     int rollNumber;

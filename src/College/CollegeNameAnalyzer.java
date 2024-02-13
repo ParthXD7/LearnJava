@@ -1,3 +1,5 @@
+package College;
+
 public class CollegeNameAnalyzer {
     public static void main(String[] args) {
         int vowelCount = 0;

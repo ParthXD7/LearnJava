@@ -1,4 +1,6 @@
-    import java.util.Scanner;
+package College;
+
+import java.util.Scanner;
 
     public class CollegeEncryptNumber {
         public static void main(String[] args) {

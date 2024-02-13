@@ -1,3 +1,5 @@
+package College;
+
 import java.util.Arrays;
 
 public class CollegeArrayOperations {

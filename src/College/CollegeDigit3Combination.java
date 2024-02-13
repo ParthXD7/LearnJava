@@ -1,3 +1,5 @@
+package College;
+
 public class CollegeDigit3Combination {
         public static void main(String[] args) {
             int num1 = 1234;
