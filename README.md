@@ -2,22 +2,60 @@
 
 This repository contains basic Java code examples. It's designed and developed by **parthxd7**.
 
-## Files
+## Basic Learn Files
 
-- `BarkingDog.java`
-- `DecimalComparator.java`
-- `EqualSumChecker.java`
-- `FirstMethodChallenge.java`
-- `LeapYear.java`
-- `Main.java`
-- `MainChallenge.java`
-- `MegaBytesConverter.java`
-- `PositiveNegativeZero.java`
-- `SpeedConverter.java`
-- `TeenNumberChecker.java`
-- `first.java`
-- `literals.java`
-- `studentspercent.java`
+- AreaCalculator.java
+- BarkingDog.java
+- DecimalComparator.java
+- DiagonalStar.java
+- EqualSumChecker.java
+- EvenDigitSum.java
+- FactorPrinter.java
+- FirstLastDigitSum.java
+- FirstMethodChallenege.java
+- FlourPacker.java
+- FlowControlSwitch.java
+- ForStatementCalcInterest.java
+- GreatestCommonDivisor.java
+- InputCalculator.java
+- IntEqualityPrinter.java
+- LargestPrime.java
+- LastDigitChecker.java
+- LeapYear.java
+- Main.java
+- MainChallenge.java
+- MegaBytesConverter.java
+- MinutesToYearsDaysCalculator.java
+- MonthDaysCalculator.java
+- NumberPalidrome.java
+- NumberPrinter.java
+- NumberToWords.java
+- PaintJob.java
+- PerfectNumber.java
+- PlayingCat.java
+- PositiveNegativeZero.java
+- SecondsMinuteChallenge.java
+- SharedDigit.java
+- SpeedConverter.java
+- StringToInt.java
+- SumOddRange.java
+- SwitchJava.java
+- TeenNumberChecker.java
+- first.java
+- getinputfromconsole.java
+- literals.java
+- studentspercent.java
+
+## College Files
+
+- CollegeAreaPeri3.java
+- CollegeArrayOperations.java
+- CollegeDigit3Combination.java
+- CollegeEncryptNumber.java
+- CollegeMenuDriveLinearArray.java
+- CollegeNameAnalyzer.java
+- CollegeStudentDetails.java
+
 
 Each file is a standalone Java program demonstrating different concepts and challenges in Java.
 
